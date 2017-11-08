@@ -9,7 +9,7 @@ DejaVu changes are in public domain
 Version 2.035
 IsFixedPitch true
 ItalicAngle 0.00
-FontBBox -558 -375 1763 1028
+FontBBox -558 -375 2365 1028
 Ascender 760
 Descender -240
 XHeight 547
@@ -19,7 +19,7 @@ UnderlineThickness 90
 StdHW 83
 StdVW 90
 EncodingScheme FontSpecific
-StartCharMetrics 3379
+StartCharMetrics 3391
 C 5 ; WX 602 ; N breve ; B 148 645 454 785 ;
 C 6 ; WX 602 ; N dotaccent ; B 250 658 351 758 ;
 C 8 ; WX 602 ; N ring ; B 167 610 435 878 ;
@@ -449,6 +449,7 @@ C -1 ; WX 602 ; N circlemultiply ; B 39 52 563 577 ;
 C -1 ; WX 602 ; N circleplus ; B 39 52 563 577 ;
 C -1 ; WX 602 ; N club ; B 24 65 578 664 ;
 C -1 ; WX 602 ; N colonmonetary ; B 60 -44 548 778 ;
+C -1 ; WX 1204 ; N comment.liga ; B 118 -93 1083 729 ;
 C -1 ; WX 602 ; N congruent ; B 43 94 559 570 ;
 C -1 ; WX 602 ; N dcaron ; B 60 -14 641 760 ;
 C -1 ; WX 602 ; N delta ; B 67 -14 535 766 ;
@@ -458,6 +459,7 @@ C -1 ; WX 602 ; N dieresistonos ; B 156 659 466 980 ;
 C -1 ; WX 602 ; N dkshade ; B 0 -240 602 928 ;
 C -1 ; WX 602 ; N dlLtcaron ; B 232 616 362 800 ;
 C -1 ; WX 602 ; N dnblock ; B -10 -250 612 344 ;
+C -1 ; WX 1204 ; N doctype.liga ; B 43 0 953 729 ;
 C -1 ; WX 602 ; N dong ; B 60 -174 602 760 ;
 C -1 ; WX 602 ; N dotbelowcomb ; B 250 -202 351 -102 ;
 C -1 ; WX 602 ; N dotlessj ; B 91 -208 383 547 ;
@@ -469,6 +471,8 @@ C -1 ; WX 602 ; N edotaccent ; B 60 -14 543 758 ;
 C -1 ; WX 602 ; N element ; B 63 0 539 715 ;
 C -1 ; WX 602 ; N emacron ; B 60 -14 543 745 ;
 C -1 ; WX 602 ; N emptyset ; B 36 48 567 579 ;
+C -1 ; WX 1204 ; N endtag.liga ; B 104 -93 1100 729 ;
+C -1 ; WX 1204 ; N endtag2.liga ; B 106 -93 1097 729 ;
 C -1 ; WX 602 ; N eng ; B 95 -208 513 560 ;
 C -1 ; WX 602 ; N eogonek ; B 60 -193 543 560 ;
 C -1 ; WX 602 ; N epsilon ; B 83 -11 520 560 ;
@@ -503,6 +507,7 @@ C -1 ; WX 602 ; N hcircumflex ; B 95 0 513 928 ;
 C -1 ; WX 602 ; N heart ; B 5 65 597 664 ;
 C -1 ; WX 602 ; N hookabovecomb ; B 200 618 402 847 ;
 C -1 ; WX 602 ; N house ; B 71 0 530 596 ;
+C -1 ; WX 2408 ; N htmlcomment.liga ; B 43 0 2365 729 ;
 C -1 ; WX 602 ; N ibreve ; B 87 0 533 785 ;
 C -1 ; WX 1806 ; N ident.liga ; B 43 172 1763 454 ;
 C -1 ; WX 1806 ; N ident2.liga ; B 43 94 1763 532 ;
@@ -542,6 +547,8 @@ C -1 ; WX 602 ; N lozenge ; B 57 -233 545 807 ;
 C -1 ; WX 1204 ; N lt.liga ; B 344 0 860 627 ;
 C -1 ; WX 602 ; N ltshade ; B 0 -240 527 928 ;
 C -1 ; WX 602 ; N male ; B 10 75 592 648 ;
+C -1 ; WX 1204 ; N mcomment.liga ; B 116 -93 1088 729 ;
+C -1 ; WX 1204 ; N mcomment2.liga ; B 156 -93 1048 729 ;
 C -1 ; WX 602 ; N minus ; B 43 272 559 355 ;
 C -1 ; WX 602 ; N minute ; B 209 547 393 729 ;
 C -1 ; WX 602 ; N musicalnote ; B 79 16 523 708 ;
@@ -576,6 +583,7 @@ C -1 ; WX 602 ; N peseta ; B 5 -14 600 729 ;
 C -1 ; WX 602 ; N phi ; B 37 -208 565 551 ;
 C -1 ; WX 602 ; N phi1 ; B 53 -208 549 729 ;
 C -1 ; WX 602 ; N pi ; B 39 -19 577 547 ;
+C -1 ; WX 1204 ; N plusplus.liga ; B 92 55 1112 572 ;
 C -1 ; WX 602 ; N product ; B 74 -213 528 741 ;
 C -1 ; WX 602 ; N propersubset ; B 43 80 559 546 ;
 C -1 ; WX 602 ; N propersuperset ; B 43 80 559 546 ;
@@ -603,9 +611,12 @@ C -1 ; WX 602 ; N shade ; B 0 -240 602 928 ;
 C -1 ; WX 602 ; N sigma ; B 67 -15 552 547 ;
 C -1 ; WX 602 ; N sigma1 ; B 95 -210 518 560 ;
 C -1 ; WX 602 ; N similar ; B 43 243 559 384 ;
+C -1 ; WX 1204 ; N slarrow.liga ; B 43 0 1161 627 ;
+C -1 ; WX 1806 ; N slarrowx2.liga ; B 43 0 1763 627 ;
 C -1 ; WX 602 ; N smileface ; B 16 80 586 650 ;
 C -1 ; WX 602 ; N spade ; B 62 65 540 664 ;
 C -1 ; WX 1204 ; N srarrow.liga ; B 43 0 1161 627 ;
+C -1 ; WX 1806 ; N srarrowx2.liga ; B 43 0 1763 627 ;
 C -1 ; WX 602 ; N suchthat ; B 63 0 539 715 ;
 C -1 ; WX 602 ; N summation ; B 70 -213 530 741 ;
 C -1 ; WX 602 ; N sun ; B 16 80 586 650 ;
@@ -613,6 +624,7 @@ C -1 ; WX 602 ; N tau ; B 78 0 524 546 ;
 C -1 ; WX 602 ; N tbar ; B 64 0 504 702 ;
 C -1 ; WX 602 ; N tcaron ; B 64 0 504 812 ;
 C -1 ; WX 602 ; N tcommaaccent ; B 64 -193 504 702 ;
+C -1 ; WX 1806 ; N tcomment.liga ; B 226 -93 1582 729 ;
 C -1 ; WX 602 ; N therefore ; B 91 65 512 564 ;
 C -1 ; WX 602 ; N theta ; B 67 -14 535 732 ;
 C -1 ; WX 602 ; N theta1 ; B 50 -11 544 768 ;
