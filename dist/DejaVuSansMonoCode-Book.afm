@@ -19,7 +19,7 @@ UnderlineThickness 90
 StdHW 83
 StdVW 90
 EncodingScheme FontSpecific
-StartCharMetrics 3391
+StartCharMetrics 3392
 C 5 ; WX 602 ; N breve ; B 148 645 454 785 ;
 C 6 ; WX 602 ; N dotaccent ; B 250 658 351 758 ;
 C 8 ; WX 602 ; N ring ; B 167 610 435 878 ;
@@ -631,6 +631,7 @@ C -1 ; WX 602 ; N theta1 ; B 50 -11 544 768 ;
 C -1 ; WX 602 ; N thinquestion ; B 175 0 448 745 ;
 C -1 ; WX 602 ; N threeeighths ; B 13 -140 546 818 ;
 C -1 ; WX 602 ; N tildecomb ; B 140 639 462 777 ;
+C -1 ; WX 1806 ; N tmcomment.liga ; B 116 -93 1649 729 ;
 C -1 ; WX 602 ; N tonos ; B 232 616 466 800 ;
 C -1 ; WX 602 ; N triagdn ; B 3 -38 599 558 ;
 C -1 ; WX 602 ; N triaglf ; B 3 66 599 454 ;
