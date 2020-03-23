@@ -1,0 +1,35 @@
+@font-face {
+    src: url("DejaVuSansMonoCode.eot");
+    src: url("DejaVuSansMonoCode.eot?#iefix") format("embedded-opentype"),
+         url("DejaVuSansMonoCode.woff") format("woff"),
+         url("DejaVuSansMonoCode.ttf") format("truetype");
+
+    font-family: "DejaVu Sans Mono Code";
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    src: url("DejaVuSansMonoCode-Bold.eot");
+    src: url("DejaVuSansMonoCode-Bold.eot?#iefix") format("embedded-opentype"),
+         url("DejaVuSansMonoCode-Bold.woff") format("woff"),
+         url("DejaVuSansMonoCode-Bold.ttf") format("truetype");
+
+    font-family: "DejaVu Sans Mono Code";
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    src: url("DejaVuSansMonoCode-Cursive.eot");
+    src: url("DejaVuSansMonoCode-Cursive.eot?#iefix") format("embedded-opentype"),
+         url("DejaVuSansMonoCode-Cursive.woff") format("woff"),
+         url("DejaVuSansMonoCode-Cursive.ttf") format("truetype");
+
+    font-family: "DejaVu Sans Mono Code";
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
